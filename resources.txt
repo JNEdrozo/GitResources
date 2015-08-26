@@ -1,1 +1,4 @@
 Official Git documentation: http://git-scm.com/doc
+
+Github Resources: 
+1) Video links: https://training.github.com/resources/videos/
